@@ -91,6 +91,8 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 
 - [MIT 6.006 - Introduction to Algorithms](https://www.youtube.com/watch?v=ZA-tUyM_y7s&list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
 - [MIT 6.046 - Design and Analysis of Algorithms](https://www.youtube.com/watch?v=2P-yW7LQr08&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp)
+- [MIT 6.851 Advanced Data Structures](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/)
+
 
 
 ### Databases
