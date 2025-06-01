@@ -77,7 +77,6 @@ The Data Science curriculum assumes the student has taken [high school math](htt
 ## Curriculum
 - [Data Structures and Algorithms](#data-structures-and-algorithms)
 - [Databases](#databases)
-- [Single Variable Calculus](#single-variable-calculus)
 - [Linear Algebra](#linear-algebra)
 - [Multivariable Calculus](#multivariable-calculus)
 - [Statistics & Probability](#statistics--probability)
@@ -113,14 +112,6 @@ _The Algorithms courses are taught in Java. If students need to learn Java, they
 [Design and Build a Data Warehouse for Business Intelligence Implementation](https://www.coursera.org/learn/data-warehouse-bi-building)
 
 [MongoDB for Developers Learning Path](https://learn.mongodb.com/pages/mongodb-developer-learning-paths)
-
-### Single Variable Calculus
-
-[Calculus 1A: Differentiation](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.1x/)
-
-[Calculus 1B: Integration](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.2x/)
-
-[Calculus 1C: Coordinate Systems & Infinite Series](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.3x/)
 
 ### Linear Algebra
 
